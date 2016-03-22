@@ -1,6 +1,6 @@
 #2D Graphics
 
-A course project of mine back from the 90-ties ;)
+A course project of mine back from the year 2000 ;)
 
 Any further improvements are welcome
 
