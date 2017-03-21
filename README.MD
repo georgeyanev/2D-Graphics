@@ -1,4 +1,4 @@
-#2D Graphics
+# 2D Graphics
 
 A course project of mine back from the year 2000 ;)
 
@@ -21,7 +21,8 @@ Another option is to use [http://www.dosbox.com](http://www.dosbox.com)
 
 It is intended for educational purposes as there are implemented many drawing algorithms.
 
-##Gide:
+## Gide:
+
 Use the "Line" button to draw a line. When the button is pressed down
 you can draw as many lines as you want, by pressing the left mouse button and dragging
 the line. For manipulation of existing lines
