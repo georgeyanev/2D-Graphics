@@ -16,7 +16,8 @@ the ellipses and the polygons, choosing colors of your taste.
 The center of rotation of the elements is user defined.
 You can save your graphic to a file, which can later be loaded.
 
-The program can be run on win95, win98, winME and on winXP and most probably on any newer windows version.  
+The program can be run only on 32bit version of winXP, Vista, 8, 8.1 or newer since the 64bit versions don't have 16 bit subsystem. 
+
 It is intended for educational purposes as there are implemented many drawing algorithms.
 
 ##Gide:
