@@ -1,9 +1,8 @@
 # 2D Graphics
 
-A course project of mine back from the year 2000 ;)
+A course project of mine.
 
 Any further improvements are welcome
-
 
 C++ sources and 16-bit exe file for 2D vector graphics manipulation.
 
